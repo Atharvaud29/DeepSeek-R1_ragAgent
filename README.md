@@ -1,0 +1,1 @@
+# Creating an Document Summarizer (Agentic AI) with the help of DeepSeek R1 model provided by Ollama
